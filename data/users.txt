@@ -1,0 +1,3 @@
+admin|admin123|ADMIN
+nimal|clerk123|CLERK
+kumari|clerk123|CLERK

@@ -1,0 +1,4 @@
+R001|Colombo|Kandy|115
+R002|Colombo|Galle|126
+R003|Colombo|Kurunegala|94
+R004|Kandy|Nuwara Eliya|77

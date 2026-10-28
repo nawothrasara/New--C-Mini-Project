@@ -1,4 +1,4 @@
-BUS RESERVATION & TRANSPORT MANAGEMENT SYSTEM  (C, console, Ubuntu)
+BUS RESERVATION & TRANSPORT MANAGEMENT SYSTEM  (C, console, Ubuntu).
 
 COMPILE AND RUN (inside this folder)
   gcc *.c -o busys
